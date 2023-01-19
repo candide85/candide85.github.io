@@ -77,7 +77,13 @@ body {
     background: rgb(38, 38, 125);
     padding: 45px;
     border-radius: 5px;
+}
 
+#survey-form .main-input #code {
+    width: 620px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 17px;
 }
 
 #survey-form .main-input #dropdown {
