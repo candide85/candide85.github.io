@@ -1,0 +1,95 @@
+body {
+    border: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 2px solid black;
+    align-items: center;
+    background: rgb(96, 103, 154);
+
+}
+
+#title {
+    color: white;
+    font-size: 37px;
+}
+
+
+
+#description {
+    color: white;
+    margin-top: 0;
+    font-size: 19px;
+    font-style: italic;
+}
+
+
+#survey-form .main-input input {
+    width: 620px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 17px;
+    text-indent: 10px;
+}
+
+#survey-form p {
+    color: white;
+    font-size: 21px;
+}
+
+#survey-form #submit {
+    width: 620px;
+    height: 45px;
+    margin-top: 25px;
+    background: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+}
+
+
+#survey-form #text-info textarea {
+    width: 620px;
+    height: 120px;
+    font-size: 17px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+
+#survey-form #improvement label {
+    color: white;
+    font-size: 21px;
+}
+
+
+#survey-form .recommend label {
+    color: white;
+    font-size: 21px;
+}
+
+#survey-form {
+    background: rgb(38, 38, 125);
+    padding: 45px;
+    border-radius: 5px;
+
+}
+
+#survey-form .main-input #dropdown {
+    width: 620px;
+    height: 40px;
+    font-size: 17px;
+    text-indent: 10px;
+    border-radius: 5px;
+}
+
+#survey-form .main-input label {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
